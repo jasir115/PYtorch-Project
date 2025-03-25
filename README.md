@@ -14,9 +14,6 @@ Given a prompt as an opening line of a story, GPT writes the rest of the plot; S
 ## Installation
 
 ### PyPI
-
-Story Teller is available on [PyPI](https://pypi.org/project/storyteller-core/).
-
 ```
 $ pip install storyteller-core
 ```
